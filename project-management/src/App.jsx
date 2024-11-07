@@ -8,7 +8,8 @@ import { useState } from "react";
 function App() {
   const [projectsState, setProjectsState] = useState({
     selectedProjectId: undefined,
-    projects: []
+    projects: [],
+    tasks: []
   });
 
   function handleStartAddProject() {
@@ -64,16 +65,34 @@ function App() {
     });
   }
 
-  function handleAddTask() {
-
+  function handleAddTask(task) {
+    const taskId = Math.random();
+    const newTask = {
+      task: task,
+      id: taskId,
+      //projectId: prevState.selectedProjectId
+    };
+    setProjectsState(prevState => {
+        newTask.projectId = prevState.selectedProjectId;
+        return {
+          ...prevState,
+          tasks: [...prevState.tasks, newTask]
+        };
+      }
+    );
   }
 
-  function handleDeleteTask() {
-
+  function handleDeleteTask(id) {
+    setProjectsState((prevState) => {
+      return {
+        ...prevState,
+        tasks: prevState.tasks.filter(x => x.id !== id)
+      };
+    });
   }
 
   const selectedProject = projectsState.projects.find(project => project.id === projectsState.selectedProjectId);
-  let content = <SelectedProject project={selectedProject} onDelete={handleDeleteProject} onAddTask={handleAddTask} onDeleteTask={handleDeleteTask}></SelectedProject>;
+  let content = <SelectedProject project={selectedProject} tasks={projectsState.tasks} onDelete={handleDeleteProject} onAddTask={handleAddTask} onDeleteTask={handleDeleteTask}></SelectedProject>;
 
   if(projectsState.selectedProjectId === null) {
     content = <NewProject onAdd={handleAddProject} onCancel={handleCancelAddProject}></NewProject>;
