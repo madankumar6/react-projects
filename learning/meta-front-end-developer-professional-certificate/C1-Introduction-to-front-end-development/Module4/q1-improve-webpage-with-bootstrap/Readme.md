@@ -1,0 +1,1 @@
+![](/learning/meta-front-end-developer-professional-certificate/C1-Introduction-to-front-end-development/Module4/q1-improve-webpage-with-bootstrap/ss1.png)
