@@ -36,3 +36,55 @@
 ### [Certificate of Completion](https://coursera.org/share/b5d3f08f5013d0008fd4a6fadb88b65f)
 
 <br/>
+
+## Course 2 : [Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript)
+
+- [Module 1](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module1/)
+
+  - [Quiz - Programming with JavaScript](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module1/quiz1-programming/)
+  - [Quiz - Conditional and Loops](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module1/quiz2-conditionals-and-loops/)
+  - [Exercise - Declaring Variables](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module1/exercise1-declaring-variables/)
+  - [Exercise - Declaring Variables](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module1/exercise1-declaring-variables/)
+  - [Exercise - Advanced use of Operators](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module1/exercise2-advanced-use-of-operators/)
+  - [Exercise - Conditional and Loops](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module1/exercise3-conditions-and-loops/)
+
+- [Module 2](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module2/)
+
+  - [Quiz - Arrays, Objects, Functions](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module2/quiz1-arrays-objects-functions/)
+  - [Quiz - Error handling](/C2-Programming-with-Javascript/Module2/quiz2-error-handling/)
+  - [Exercise - Conditional and Loops](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module2/exercise1-practicing-with-functions/)
+  - [Exercise - Arrays and Objects](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module2/exercise2-arrays-objects/)
+  - [Exercise - Error Prevention](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module2/exercise3-error-prevention/)
+  - [Exercise - Defensive Programming](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module2/exercise4-defensive-programming/)
+  - [Assessment - Practicing with functions](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module2/assessment-building-blocks-program/)
+  
+
+- [Module 3](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module3/)
+
+  - [Quiz - Functional Programming](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module3/quiz1-functional-programming/)
+  - [Quiz - Object Oriented Programming](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module3/quiz2-oop/)
+  - [Quiz - JavaScript in the browser](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module3/quiz3-javascript-in-the-browser/)
+  - [Exercise - Webpage content update](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module3/exercise1-web-page-content-update/)
+  - [Exercise - Capture data](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module3/exercise2-capture-data/)
+  - [Lab - Building a functional program](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module3/lab1-building-a-functional-program/)
+  - [Lab - Building an Object Oriented Program](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module3/lab2-building-a-object-oriented-program/)
+  - [Lab - Array Object and Iteration](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module3/lab3-array-object-iteration/)
+  - [Assessment - Advanced JavaScript Features](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module3/assessment-advanced-javascript-features/)
+  - [Assessment - Programming Paradigms](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module3/assessment-programming-paradigms/)
+
+- [Module 4](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module4/)
+
+  - [Quiz - Introduction to Testing](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module4/quiz1-introduction-to-testing/)
+  - [Lab - Writing Unit Test](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module4/lab1-writing-unit-test/)
+  - [Assessment - Testing](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module4/assessment-testing/)
+  
+- [Module 5](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module5/)
+
+  - [Lab - Little Lemon Recipe Maker](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module5/lab-little-lemon-recipe-maker/)
+  - [Assessment - Programming with JavaScript](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module5/assessment-programming-with-javascript/)
+
+
+### [Certificate of Completion](https://coursera.org/share/2a003a685a023f524da610eed8195767)
+
+<br/>
+
