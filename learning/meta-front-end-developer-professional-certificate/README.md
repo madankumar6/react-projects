@@ -88,3 +88,9 @@
 
 <br/>
 
+## Course # : [Version Control](https://www.coursera.org/learn/introduction-to-version-control/)
+
+- [Module 1](/learning/meta-front-end-developer-professional-certificate/C2-Programming-with-Javascript/Module1/)
+
+  - [Quiz - Programming with JavaScript](/learning/meta-front-end-developer-professional-certificate/C3-Version-control/Module1/quiz-intro-to-version-control/)
+  - [Assessment - Software collaboration](/learning/meta-front-end-developer-professional-certificate/C3-Version-control/Module1/assessment-software-collaboration/)
