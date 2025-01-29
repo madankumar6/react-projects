@@ -99,3 +99,18 @@
 
   - [Quiz - Programming with JavaScript](/learning/meta-front-end-developer-professional-certificate/C3-Version-control/Module2/quiz-unix-commands/)
   - [Assessment - Software collaboration](/learning/meta-front-end-developer-professional-certificate/C3-Version-control/Module2/assessment-command-line/)
+  
+- [Module 3](/learning/meta-front-end-developer-professional-certificate/C3-Version-control/Module3/)
+
+  - [Quiz - Git and GitHub](/learning/meta-front-end-developer-professional-certificate/C3-Version-control/Module3/quiz1-git-and-github/)
+  - [Quiz - Forking a repository](/learning/meta-front-end-developer-professional-certificate/C3-Version-control/Module3/quiz2-create-forking-repository/)
+  - [Quiz - Working with Git](/learning/meta-front-end-developer-professional-certificate/C3-Version-control/Module3/quiz3-working-with-git/)
+  
+- [Module 4](/learning/meta-front-end-developer-professional-certificate/C3-Version-control/Module4/)
+
+  - [Assessment - Git](/learning/meta-front-end-developer-professional-certificate/C3-Version-control/Module4/assessment-git/)
+
+
+### [Certificate of Completion](https://coursera.org/share/df68d2550c25f3a3c47661d9aa81b133)
+
+<br/>
