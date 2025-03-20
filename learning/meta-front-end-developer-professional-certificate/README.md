@@ -114,3 +114,17 @@
 ### [Certificate of Completion](https://coursera.org/share/df68d2550c25f3a3c47661d9aa81b133)
 
 <br/>
+## Course # : [HTML and CSS](https://www.coursera.org/learn/html-and-css-in-depth/)
+
+- [Module 1](/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/)
+
+  - [Quiz - Practice using semantic tags](/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/quiz1-using-semantic-tags/)
+  - [Quiz - Metadata](/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/quiz2-metadata/)
+  - [Quiz - Open Graph Protocol](/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/quiz3-open-graph-protocol/)
+  - [Quiz - Semantic and meta tags](/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/quiz4-semantic-meta-tags/)
+  - [Quiz - Practice using semantic tags](/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/quiz1-using-semantic-tags/)
+  - [Quiz - Practice using semantic tags](/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/quiz1-using-semantic-tags/)
+  - [Assessment - Software collaboration](/learning/meta-front-end-developer-professional-certificate/C3-Version-control/Module1/assessment-software-collaboration/)
+  
+
+<br/>
