@@ -126,5 +126,19 @@
   - [Quiz - Practice using semantic tags](/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/quiz1-using-semantic-tags/)
   - [Assessment - Software collaboration](/learning/meta-front-end-developer-professional-certificate/C3-Version-control/Module1/assessment-software-collaboration/)
   
+<br/>
+
+## Course 4 : [HTML and CSS in depth](https://www.coursera.org/learn/html-and-css-in-depth)
+
+- [Module 1](/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/)
+
+  - [Quiz - Using Semantic Tags](/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/quiz1-using-semantic-tags/)
+  - [Quiz - Metadata](/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/quiz2-metadata/)
+  - [Module Quiz: Open Graph Protocol]	(/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/quiz3-open-graph-protocol/)
+  - [Module Quiz: Semantic Meta Tags]	(/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/quiz4-semantic-meta-tags/)
+  - [Module Quiz: Declaring Form Elements]	(/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/quiz5-declaring-form-elements/)
+  - [Programming Assignment - Create and test Form](/learning/meta-front-end-developer-professional-certificate/C4-HTML-CSS/Module1/lab1-create-and-test-form/)
+ 
+### [Certificate of Completion]()
 
 <br/>
